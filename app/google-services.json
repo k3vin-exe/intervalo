@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287362252425",
+    "project_id": "intervalo-63c2fcb2",
+    "storage_bucket": "intervalo-63c2fcb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287362252425:android:cdc9020a8de93de74a9058",
+        "android_client_info": {
+          "package_name": "com.devmobile.intervalo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwLoYBjaGQgWEL6XpgO678vo2K_JaNkSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
