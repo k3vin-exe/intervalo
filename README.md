@@ -66,5 +66,9 @@ O relatório técnico completo, com detalhamento da implementação, escolhas de
 
 ## Demonstração
 
-- Vídeo de apresentação: https://github.com/k3vin-exe/intervalo/releases/download/v1.0/showcase_intervalo.mp4
+- Vídeo de apresentação: 
+
+https://github.com/user-attachments/assets/19c630e7-4d15-4f6c-a98a-8ad9e0c599f1
+
+
 - APK para instalação: ver [Releases](../../releases)
